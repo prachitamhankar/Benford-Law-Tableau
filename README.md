@@ -21,7 +21,7 @@ I have used Tableau’s Superstore Sales Data to check if the data is fabricated
 
 Superstore data consisting of Sales and the left most digit :
 
-![alt text](https://github.com/prachitamhankar/Benford-Law-Tableau/tree/master/images/1.jpg "Logo Title Text 1")
+![image_descript](https://github.com/prachitamhankar/Benford-Law-Tableau/tree/master/images/1.png)
 
 
 ### Prerequisites
