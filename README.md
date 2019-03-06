@@ -21,20 +21,17 @@ I have used Tableau’s Superstore Sales Data to check if the data is fabricated
 
 Superstore data consisting of Sales and the left most digit :
 
-![image_descript](https://github.com/prachitamhankar/Benford-Law-Tableau/tree/master/images/1.png)
+![image_descript](/images/1.png)
 
+Applying Benford distribution to visualize against the existing data for anomaly detection with a threshold of 20 % :
 
-### Prerequisites
+![image_descript](/images/2.png)
 
-You will need following softwares:
+Data behavior for different category of products:
 
-```
-Pentaho
-Python > 2.7
-Matplotlib, seaborn, mapbox
-```
+![image_descript](/images/3.png)
 
 ## Acknowledgments
 
-* I have used the dataset provided by [US Bureau of Transportation](https://www.bts.gov/topics/airlines-and-airports/origin-and-destination-survey-data)
+* I have used the dataset provided by Tableau Superstore data.
 
