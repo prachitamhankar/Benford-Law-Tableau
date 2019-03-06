@@ -5,7 +5,7 @@ Analyzing Fraud detection using Benford’s Law in Tableau
 
 Law of Anomalous behavior or the first digit law states that in real-life data the leading or the left most digit is likely to be small. The smallest number 1 appears as the leftmost digit for about 30 percent of the time while the number 9 appears less than 5 percent.  This is used to detect frauds by the first digit frequency distribution of data by the anomaly in the results. 
 
-### Steps Followed
+### Steps in the execution of this project
 
 I have used Tableau’s Superstore Sales Data to check if the data is fabricated or genuine. To ensure if the data is free from any accounting fraud and is genuine, I followed the below steps:
 
